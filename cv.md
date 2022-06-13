@@ -12,7 +12,7 @@
 ### Skills and Proficiency:
 
 - HTML, CSS
-- Bootstrap basics, SASS basic
+- Bootstrap basics, SASS basics
 - JQuery basics, React basics
 - Git basics
 - C++ basics
